@@ -1,56 +1,41 @@
 {title: Aquí estás}
 
 {key: C}
-INTRO:
-[C,G,D,Em]
- [C]
- Aquí estas
-            [G]
-Te vemos mover 
-         [D]
-Te adorare 
-         [Em]
-Te adorare 
-[C]
-Aquí estas 
-            [G]
-Obrando en mi 
-          [D]
-Te adorare
-         [Em]
-Te adorare 
-CORO 
+
+{comment: Intro}
+[C] [G] [D] [Em]
+
+{comment: Verso}
+Aquí es[C]tás
+Te vemos mo[G]ver
+Te adora[D]ré
+Te adora[Em]ré
+
+Aquí es[C]tás
+Obrando en [G]mi
+Te adora[D]ré
+Te adora[Em]ré
+
+{comment: Coro}
 (Y te llamamos)
-[C]
-//Milagroso, abres camino
-[G]
-Cumples promesas
-              [D]
-Luz en tinieblas
-                 [Em]
-Mi Dios, así eres Tú//
-[C]                     
-Aquí estas
- [G] 
-tocando mi corazón 
-        [D]
-Te adorare
-         [Em]
-Te adorare
- 
-[C]                     
-Aquí estas 
-[G] 
-sanando mi corazón 
-        [D]
-Te adorare
-        [Em]
-Te adorare 
-[C] 
-Aunque no pueda ver estas obrando 
-[G] 
-Aunque no pueda ver estas obrando 
- [D]
-Siempre estas, siempre estas obrando 
- [Em]
-Siempre estas, siempre estas obrando
+//[C]Milagroso, abres camino
+[G]Cumples promesas
+Luz en tinieblas[D]
+Mi Dios, así eres [Em]Tú//
+
+{comment: Verso}
+Aquí es[C]tás
+tocando mi cora[G]zón 
+Te adora[D]ré
+Te adora[Em]ré
+
+Aquí es[C]tás 
+sanando mi cora[G]zón 
+Te adora[D]ré
+Te adora[Em]ré 
+
+{comment: Puente}
+[C]Aunque no pueda ver estas obrando
+[G]Aunque no pueda ver estas obrando
+[D]Siempre estas, siempre estas obrando
+[Em]Siempre estas, siempre estas obrando
